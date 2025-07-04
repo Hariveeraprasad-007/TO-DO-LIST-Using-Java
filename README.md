@@ -1,8 +1,4 @@
-✅To-Do List App – Project Roadmap
-Web + Mobile + Java Spring Boot Backend
-Status: Project in planning phase – development yet to begin
-Goal: Build a unique productivity system with gamification, XP levels, virtual pet, and cross-platform support (web + mobile).
-
+✅To-Do List App
 🧠 Vision
 To create a to-do list application that combines productivity, habit-forming behavior, and user engagement through gamification, smart reminders, and a growing virtual companion.
 
