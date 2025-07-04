@@ -6,15 +6,6 @@ Goal: Build a unique productivity system with gamification, XP levels, virtual p
 🧠 Vision
 To create a to-do list application that combines productivity, habit-forming behavior, and user engagement through gamification, smart reminders, and a growing virtual companion.
 
-🧱 Planned Tech Stack
-Layer	Technology
-Frontend (Web)	React.js, Tailwind CSS
-Frontend (Mobile)	React Native (Expo)
-Backend	Java Spring Boot
-Database	PostgreSQL
-Authentication	JWT
-Communication	Axios
-Deployment	Vercel, Render, Heroku
 
 📌 Project Phase Overview
 🚧 Phase 0: Planning & Setup
